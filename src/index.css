@@ -1,0 +1,5 @@
+body {
+  display: grid;
+  background: linear-gradient(to bottom right, #79c7c5 40%, black 100%);
+  font-family: 'Lato', sans-serif;
+}
